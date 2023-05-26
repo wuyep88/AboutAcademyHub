@@ -1,0 +1,63 @@
+.container{
+  background-color: #B6E8FB;
+  width: 100%;
+  height:560px;
+}
+.nav_bar{
+  color:white;
+  background-color:black;
+  text-align:center;
+}
+.header{
+  color:purple;
+  background-color:#DDEAEA;
+  text-align:center;
+}
+.nav{
+  background-color:#C9E0DB;
+  width: 100%;
+  min-height:410px;
+}
+.side_nav{
+  background-color:#FCD4CB;
+  float:left;
+  width: 30%;
+  min-height:410px;
+}
+.side_nav h2{
+text-align: center;
+color:  red;
+font-family: fantasy;
+}
+.side_nav p{
+  color:brown;
+  text-align: justify;
+}
+.section_nav{
+  width: 70%;
+  float: left;
+}
+.jasmine_room{
+  float:left;
+  width: 35%;
+  padding-left: 20px
+}
+.zion_room{
+  float:left;
+  width: 35%;
+  padding-left: 120px
+}
+.jasmine_room img, .zion_room img{
+  width: 400px;
+  height:370px;
+}
+.jasmine_room p, .zion_room p{
+  font-family: fantasy;
+  color: red;
+  text-align: center;
+}
+.footer p{
+  color:white;
+  background-color:black;
+  text-align:center;
+}
